@@ -1,7 +1,5 @@
 =BDL Python=
 
-Typesafe Python - sometimes a little Bondage and Discipline is fun.
-
 bdl is the begining of what I hope will become a collection of
 decorators and a rich domain specific lanugage to describe the
 acceptable types for parameters and return values.  Right now its
